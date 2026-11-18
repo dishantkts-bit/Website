@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14c8c8,100:0d9488&height=200&section=header&text=Dishant%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Engineer%20|%20Distributed%20Systems%20|%20Cloud%20Architecture&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14c8c8,100:0d9488&height=200&section=header&text=Dishant%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
