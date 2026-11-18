@@ -102,11 +102,16 @@ const dishant = {
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
+<!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepsani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14c8c8&icon_color=14c8c8&text_color=c9d1d9&ring_color=14c8c8"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepsani&custom_title=Dishant%20Patel%27s%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14c8c8&icon_color=14c8c8&text_color=c9d1d9&ring_color=14c8c8"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepsani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14c8c8&text_color=c9d1d9"/>
+
 </div>
 
+<!-- GitHub Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsani&theme=tokyonight&hide_border=true&background=0d1117&ring=14c8c8&fire=14c8c8&currStreakLabel=14c8c8&stroke=14c8c8" alt="GitHub Streak"/>
 </div>
@@ -116,13 +121,13 @@ const dishant = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Dishant Patel GitHub Contribution Graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepsani&bg_color=0d1117&color=14c8c8&line=14c8c8&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepsani&custom_title=Dishant%20Patel%27s%20Contribution%20Graph&bg_color=0d1117&color=14c8c8&line=14c8c8&point=ffffff&area=true&hide_border=true" width="100%" alt="Dishant Patel Contribution Graph"/>
 </div>
 
 <!-- Animated Divider -->
