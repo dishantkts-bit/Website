@@ -136,17 +136,12 @@ const dishant = {
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Experience Timeline
 
 ```
-🏢 Berkshire Hathaway          ──────────────────────▶  Software Development Engineer II
-   Jul 2025 - Present                                   Kubernetes • Microservices • AWS
+🏢 Auriic Services               ──────────────────────▶   Software Development Engineer II
+   Sep 2026 - Present                                       Kubernetes • Microservices • AWS
 
-🏢 Principal Financial Group   ──────────────────────▶  Backend Software Engineer
-   Jul 2024 - Jun 2025                                  Payment APIs • Kafka • Spring Boot
+🏢 Kognexwise Techno Solutions   ──────────────────────▶   Junior Software Engineer
+   May 2025 - Aug 2026                                      Payment APIs • Kafka • Spring Boot
 
-🏢 Allstate                    ──────────────────────▶  Application Developer
-   Jun 2022 - Jul 2024                                  Serverless • Lambda • Observability
-
-🏢 Hexaware Technologies       ──────────────────────▶  Associate Software Engineer
-   Jun 2020 - May 2022                                  Java • REST APIs • Microservices
 ```
 
 <!-- Animated Divider -->
