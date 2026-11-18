@@ -136,7 +136,7 @@ const dishant = {
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Experience Timeline
 
 ```
-🏢 Auriic Services               ──────────────────────▶   Software Development Engineer II
+🏢 Auriic Services               ──────────────────────▶   Software Engineer
    Sep 2026 - Present                                       Kubernetes • Microservices • AWS
 
 🏢 Kognexwise Techno Solutions   ──────────────────────▶   Junior Software Engineer
