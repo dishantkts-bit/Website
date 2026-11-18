@@ -35,14 +35,14 @@
 ```typescript
 const dishant = {
     name: "Dishant Patel",
-    role: "Senior Backend Software Engineer",
-    location: "Milwaukee, WI 📍",
+    role: "Software Developer",
+    location: "Ahmedabad, Gujarat 📍",
     status: "🎯 Seeking Full-Time Opportunities",
 
     experience: {
-        current: "Berkshire Hathaway",
-        previous: ["Principal Financial Group", "Allstate", "Hexaware"],
-        years: 5
+        current: "Auriic Services",
+        previous: ["Kognexwise Techno Solutions"],
+        years: 2
     },
 
     achievements: {
